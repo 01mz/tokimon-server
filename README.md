@@ -1,4 +1,4 @@
-# Tokimon_REST_API
+# tokimon-server
 
 REST API server using Spring Boot with CRUD operations to manage a collection of Tokimon. Tokimon collection data is saved in `data/tokimon.json`
 
